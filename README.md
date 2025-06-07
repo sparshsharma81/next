@@ -37,3 +37,4 @@ in the app base there is page base navigation
  ye hame src folder me leke jayega
 import Header from "@/component/Header";
 
+//we can import it

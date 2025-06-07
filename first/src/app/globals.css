@@ -40,3 +40,14 @@ a {
     color-scheme: dark;
   }
 }
+main{
+  max-width:500px;
+  margin:auto;
+  color:white;
+  transform:translateY(30);
+  background-color:blue;
+}
+Header{
+  color:yellow;
+  background-color:pink;
+}

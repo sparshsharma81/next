@@ -166,3 +166,10 @@ a.secondary {
     filter: invert();
   }
 }
+
+.main{
+  max-width:1040px;
+  margin : auto;
+  display:flex;
+  justfiy-content:center;
+}

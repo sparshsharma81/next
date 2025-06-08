@@ -96,6 +96,7 @@ export default function Home() {
       hello world this is the sample of testing../
       <br></br>
       //and this is properly working file /./
+      hello world this is working properly 
     </div>
     </main>
   );
